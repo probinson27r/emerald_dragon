@@ -1,3 +1,4 @@
+#I can't figer out how to fix it
 import sys, pygame, pygame.mixer
 from pygame.locals import *
 
